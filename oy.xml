@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ManagerCon" size="0.100000 0.100279" />
+    <ImageTarget name="ChairCon" size="0.100000 0.100279" />
+    <ImageTarget name="dessert" size="0.100000 0.100000" />
+    <ImageTarget name="desert" size="0.100000 0.100000" />
+    <ImageTarget name="chuck" size="0.100000 0.100000" />
+    <ImageTarget name="ref4" size="0.100000 0.100446" />
+    <ImageTarget name="ref3" size="0.100000 0.100446" />
+    <ImageTarget name="ref1" size="0.100000 0.100446" />
+  </Tracking>
+</QCARConfig>
