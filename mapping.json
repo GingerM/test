@@ -1,5 +1,8 @@
-[
-    {
+{
+    "version":0,
+    "db":"",
+    "xml":"",
+    "targets":[
         "name":"ManagerCon",
         "audios":[
             {
@@ -15,6 +18,5 @@
                 "url":"https://github.com/GingerM/test/raw/master/liszt.mp3"
             }
         ]
-    }
-
-]
+    ]
+}
