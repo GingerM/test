@@ -1,18 +1,18 @@
 [
     {
-        "target":"ManagerCon",
-        "Audios":[
+        "name":"ManagerCon",
+        "audios":[
             {
-                "buttonName":"Trumpet",
-                "AudioURL":"https://github.com/GingerM/test/raw/master/trumpet.mp3"
+                "name":"Trumpet",
+                "url":"https://github.com/GingerM/test/raw/master/trumpet.mp3"
             },
             {
-                "buttonName":"Spider Dance",
-                "AudioURL":"https://github.com/GingerM/test/raw/master/spiderdance.mp3"
+                "name":"Spider Dance",
+                "url":"https://github.com/GingerM/test/raw/master/spiderdance.mp3"
             },
             {
-                "buttonName":"FrankList",
-                "AudioURL":"https://github.com/GingerM/test/raw/master/liszt.mp3"
+                "name":"FrankList",
+                "url":"https://github.com/GingerM/test/raw/master/liszt.mp3"
             }
         ]
     }
