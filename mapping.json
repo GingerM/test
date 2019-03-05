@@ -3,16 +3,16 @@
         "target":"",
         "Audios":[
             {
-                "buttonName":"A",
-                "AudioURL":""
+                "buttonName":"Trumpet",
+                "AudioURL":"https://github.com/GingerM/test/raw/master/trumpet.mp3"
             },
             {
-                "buttonName":"B",
-                "AudioURL":""
+                "buttonName":"Spider Dance",
+                "AudioURL":"https://github.com/GingerM/test/raw/master/spiderdance.mp3"
             },
             {
-                "buttonName":"C",
-                "AudioURL":""
+                "buttonName":"FrankList",
+                "AudioURL":"https://github.com/GingerM/test/raw/master/liszt.mp3"
             }
         ]
     }
