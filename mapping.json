@@ -2,7 +2,7 @@
     "version":0,
     "db":"",
     "xml":"",
-    "targets":[
+    "targets":[{
         "name":"ManagerCon",
         "audios":[
             {
@@ -17,6 +17,6 @@
                 "name":"FrankList",
                 "url":"https://github.com/GingerM/test/raw/master/liszt.mp3"
             }
-        ]
+        ]}
     ]
 }
