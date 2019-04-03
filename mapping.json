@@ -1,5 +1,5 @@
 {
-    "version":2,
+    "version":3,
     "db":"https://raw.githubusercontent.com/GingerM/test/master/oy.dat",
     "xml":"https://raw.githubusercontent.com/GingerM/test/master/oy.xml",
     "targets":[{
@@ -10,8 +10,8 @@
                 "url":"https://github.com/GingerM/test/raw/master/AI.mp3"
             },
             {
-                "name":"Spider Dance",
-                "url":"https://github.com/GingerM/test/raw/master/spiderdance.mp3"
+                "name":"Human Voice",
+                "url":"https://github.com/GingerM/test/raw/master/voice.mp3"
             },
             {
                 "name":"FrankList",
